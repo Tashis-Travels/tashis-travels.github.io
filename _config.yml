@@ -6,20 +6,20 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Tashi's Travels
 tagline:	'blog'
 description:	'My personal blog.'
 url:		http://camporez.com
 
 author:
-  name:		'Ian Camporez Brunelli'
+  name:		'Tashi Dolma Hinz'
   url:		https://google.com/+IanCamporezBrunelli
 
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
+#icon:		/assets/images/icon.png
+cover:		/assets/images/tashi1.jpg
 
 social:
   - icon:	twitter
