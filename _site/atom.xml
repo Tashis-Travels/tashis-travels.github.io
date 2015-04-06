@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Tashi's Travels</title>
+ <title>Tashi's Wondrous Adventures...</title>
  <link href="http://camporez.com/atom.xml" rel="self"/>
  <link href="http://camporez.com/"/>
- <updated>2015-04-06T15:31:06+02:00</updated>
+ <updated>2015-04-06T18:50:56+02:00</updated>
  <id>http://camporez.com</id>
  <author>
    <name>Tashi Dolma Hinz</name>
@@ -177,7 +177,7 @@ But now I&amp;#39;m migrating my blog to Jekyll, and also migrating the theme. W
 &lt;/ul&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Tashi&amp;#39;s Travels&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Tashi&amp;#39;s Wondrous Adventures...&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;/ol&gt;
