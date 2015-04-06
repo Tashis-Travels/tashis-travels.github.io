@@ -4,7 +4,7 @@
  <title>Tashi's Travels</title>
  <link href="http://camporez.com/atom.xml" rel="self"/>
  <link href="http://camporez.com/"/>
- <updated>2015-04-06T13:14:12+02:00</updated>
+ <updated>2015-04-06T15:31:06+02:00</updated>
  <id>http://camporez.com</id>
  <author>
    <name>Tashi Dolma Hinz</name>
@@ -17,86 +17,26 @@
    <link href="http://camporez.com/blog/tashi"/>
    <updated>2015-04-06T00:00:00+02:00</updated>
    <id>http://camporez.com/blog/tashi</id>
-   <content type="html">&lt;h1&gt;Thinny 2.1, codename &amp;quot;&lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt;&amp;quot;&lt;/h1&gt;
+   <content type="html">&lt;h1&gt;Titel 1&lt;/h1&gt;
 
-&lt;p&gt;Cosette is the main character of the french novel &lt;em&gt;Les Misérables&lt;/em&gt;, published in 1862 by &lt;em&gt;Victor Hugo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Bisschen Text.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;/media/2014-02-27-hello-cosette/cosette.jpg&quot; alt=&quot;Amanda Seyfried as Cosette on the 2012 movie.&quot; width=&quot;100%&quot; /&gt;
-&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Amanda Seyfried as Cosette on the 2012 movie.&lt;/blockquote&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;/media/2015-04-06-tashi/tashi1.jpg&quot; alt=&quot;Tashi&#39;s 1. Bild.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Tashi&#39;s 1. Bild.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;p&gt;This new version of Thinny comes with mobile support and some bugfixes.&lt;/p&gt;
+&lt;div&gt;&lt;img src=&quot;/media/2015-04-06-tashi/tashi2.jpg&quot; alt=&quot;Tashi&#39;s 2. Bild.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Tashi&#39;s 2. Bild.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;h2&gt;Usage&lt;/h2&gt;
+&lt;div&gt;&lt;img src=&quot;/media/2015-04-06-tashi/tashi3.jpg&quot; alt=&quot;Tashi&#39;s 3. Bild.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Tashi&#39;s 3. Bild.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;h3&gt;Main variables&lt;/h3&gt;
+&lt;div&gt;&lt;img src=&quot;/media/2015-04-06-tashi/tashi4.jpg&quot; alt=&quot;Tashi&#39;s 4. Bild.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Tashi&#39;s 4. Bild.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;p&gt;The global variables are set on the &lt;code&gt;_config.yml&lt;/code&gt;[^1] file.&lt;/p&gt;
+&lt;div&gt;&lt;img src=&quot;/media/2015-04-06-tashi/tashi5.jpg&quot; alt=&quot;Tashi&#39;s 5. Bild.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Tashi&#39;s 5. Bild.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;p&gt;To start, you need to change at least the variable &lt;code&gt;url&lt;/code&gt; on the file.&lt;/p&gt;
-
-&lt;h4&gt;Social links&lt;/h4&gt;
-
-&lt;p&gt;To add a social link you just need to add the following code inside the variable &lt;code&gt;social&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;  - icon:   [the genericon name for the social network]
-    url:    [the url to follow]
-    desc:   [a small description for the link (e.g. &amp;quot;Follow me on twitter&amp;quot;)]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;Menu&lt;/h4&gt;
-
-&lt;p&gt;To add a menu item you just need to add the following code inside the variable &lt;code&gt;menu&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;  - title:  [title of the menu item]
-    url:    [the url to follow]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;Others&lt;/h4&gt;
-
-&lt;p&gt;You&amp;#39;ll find a lot of other variables inside the file, e.g.:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the site &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;description&lt;/code&gt;, &lt;code&gt;icon&lt;/code&gt; and default &lt;code&gt;cover&lt;/code&gt; image.&lt;/li&gt;
-&lt;li&gt;text of the &lt;code&gt;copyright&lt;/code&gt; message.&lt;/li&gt;
-&lt;li&gt;the number of posts per page (&lt;code&gt;paginate&lt;/code&gt;).&lt;/li&gt;
-&lt;li&gt;the &lt;code&gt;permalink&lt;/code&gt;&amp;#39;s structure (see &lt;a href=&quot;http://jekyllrb.com/docs/pagination/&quot;&gt;the docs&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Default YAML tags&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;layout:&lt;/code&gt;&lt;i&gt;&lt;code&gt;post, page&lt;/code&gt;&lt;/i&gt; &lt;code&gt;or&lt;/code&gt;&lt;i&gt;&lt;code&gt;fullscreen&lt;/code&gt;&lt;/i&gt;: defines the layout of the page.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;title: [string]&lt;/code&gt;: title of the post.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;quote: [string]&lt;/code&gt;: a small description of the post to be shown above the title.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;dark:&lt;/code&gt;&lt;i&gt;&lt;code&gt;true&lt;/code&gt;&lt;/i&gt; &lt;code&gt;or&lt;/code&gt;&lt;i&gt;&lt;code&gt;false&lt;/code&gt;&lt;/i&gt;: use black font (instead of white) for the header (default value is false).&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;image: [url] or&lt;/code&gt;&lt;i&gt;&lt;code&gt;false&lt;/code&gt;&lt;/i&gt;: a cover image for the post (default value is &lt;em&gt;false&lt;/em&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;video:&lt;/code&gt;&lt;i&gt;&lt;code&gt;true&lt;/code&gt;&lt;/i&gt; &lt;code&gt;or&lt;/code&gt;&lt;i&gt;&lt;code&gt;false&lt;/code&gt;&lt;/i&gt;: add a cover video for the post (default value is &lt;em&gt;false&lt;/em&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;video_mp4: [url]&lt;/code&gt;: the URL for the mp4 video.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;video_webm: [url]&lt;/code&gt;: the URL for the webm video.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;video_ogv: [url]&lt;/code&gt;: the URL for the ogv video.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Versions&lt;/h2&gt;
-
-&lt;p&gt;Here is a table with all Thinny&amp;#39;s versions:&lt;/p&gt;
-
-&lt;p&gt;|----
-| Version | Codename | Platform | Release date
-|:-:|:-:|:-:|:-:
-| &lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra&quot;&gt;0.3&lt;/a&gt; | &lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt; | Ghost 0.3.x |November 2013
-| &lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v2.0-bianca&quot;&gt;2.0&lt;/a&gt; | &lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt; | Jekyll | January 2014 |
-| &lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v2.1-cosette&quot;&gt;2.1&lt;/a&gt; | &lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt; | Jekyll | February 2014
-| 2.2 | &lt;a href=&quot;http://en.wikipedia.org/wiki/Dolores_Haze&quot;&gt;Dolores&lt;/a&gt; | Jekyll | &lt;em&gt;Soon...&lt;/em&gt;[^2]
-|----&lt;/p&gt;
-
-&lt;h2&gt;Download&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Thinny 2.1 is already &lt;a href=&quot;https://github.com/camporez/Thinny/releases&quot;&gt;available for download on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Want to see something else added or report a bug? &lt;a href=&quot;https://github.com/camporez/camporez.github.io/issues/new&quot;&gt;Open an issue&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;[^1]: This file is placed in your root directory. It&amp;#39;s the main file of configuration. For more information, read &lt;a href=&quot;http://jekyllrb.com/docs/configuration/&quot;&gt;the docs&lt;/a&gt;.
-[^2]: See the &lt;a href=&quot;https://github.com/camporez/camporez.github.io/issues?milestone=3&quot;&gt;issues list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sch&amp;ouml;n!&lt;/p&gt;
 </content>
  </entry>
  
